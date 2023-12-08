@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 from bs4 import BeautifulSoup # Para eliminar html de description
 
-# Campos para seleccionar del conjutno de datos
+# Campos para seleccionar del conjunto de datos
 selected_fields = ['id',
 'listing_url', # Se elimina al final
 'accommodates',
