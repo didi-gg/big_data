@@ -1,3 +1,4 @@
+# Grupo #5
 # Análisis de Alojamientos y Reseñas de Airbnb en París
 
 Este proyecto tiene como objetivo analizar los datos de alojamientos y reseñas de Airbnb para la ciudad de París. Utilizamos técnicas de ETL (Extracción, Transformación y Carga) y NLP (Procesamiento de Lenguaje Natural) para comprender mejor las tendencias en alojamientos y la satisfacción de los clientes.
